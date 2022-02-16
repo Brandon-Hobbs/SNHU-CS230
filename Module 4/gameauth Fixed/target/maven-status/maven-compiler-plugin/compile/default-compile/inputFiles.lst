@@ -1,0 +1,11 @@
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\controller\RESTClientController.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameAuthenticator.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\GameAuthConfiguration.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\healthcheck\AppHealthCheck.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameUser.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\controller\GameUserRESTController.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\GameAuthApplication.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\healthcheck\HealthCheckController.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\dao\GameUserDB.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameAuthorizer.java
+U:\gameauth\FIXME\gameauth\src\main\java\com\gamingroom\gameauth\representations\GameUserInfo.java

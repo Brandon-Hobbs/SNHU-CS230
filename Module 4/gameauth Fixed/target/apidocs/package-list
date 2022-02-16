@@ -1,0 +1,6 @@
+com.gamingroom.gameauth
+com.gamingroom.gameauth.auth
+com.gamingroom.gameauth.controller
+com.gamingroom.gameauth.dao
+com.gamingroom.gameauth.healthcheck
+com.gamingroom.gameauth.representations

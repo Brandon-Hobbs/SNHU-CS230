@@ -1,0 +1,11 @@
+com\gamingroom\gameauth\healthcheck\AppHealthCheck.class
+com\gamingroom\gameauth\auth\GameAuthorizer.class
+com\gamingroom\gameauth\auth\GameUser.class
+com\gamingroom\gameauth\healthcheck\HealthCheckController.class
+com\gamingroom\gameauth\dao\GameUserDB.class
+com\gamingroom\gameauth\auth\GameAuthenticator.class
+com\gamingroom\gameauth\GameAuthApplication.class
+com\gamingroom\gameauth\controller\GameUserRESTController.class
+com\gamingroom\gameauth\representations\GameUserInfo.class
+com\gamingroom\gameauth\controller\RESTClientController.class
+com\gamingroom\gameauth\GameAuthConfiguration.class
